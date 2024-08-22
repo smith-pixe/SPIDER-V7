@@ -995,7 +995,7 @@ const menu = `𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6`
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/7614a322cb75d2a63105a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/21d6e5b8519e167c8a5d4.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1084,7 +1084,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/08f9ac09d340afe3b250c.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1121,7 +1121,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/21d6e5b8519e167c8a5d4.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1157,7 +1157,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/08f9ac09d340afe3b250c.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1192,7 +1192,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/21d6e5b8519e167c8a5d4.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1228,7 +1228,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/21d6e5b8519e167c8a5d4.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1262,7 +1262,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/21d6e5b8519e167c8a5d4.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1296,7 +1296,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/08f9ac09d340afe3b250c.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1330,7 +1330,7 @@ deltaxcrash.sendMessage(m.chat, {
                             showAdAttribution: false,
                             title: global.namabot,
                             body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/1acb8cf39e54409b8621a.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/08f9ac09d340afe3b250c.jpg', 
                             sourceUrl: global.isLink,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2245,7 +2245,7 @@ break
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `* 𝙴ᵛⁱˡ 𝙳ʳᵃᵍᵒⁿ* *${new Date() - startTime}* ᴍs `
+          conversation: `* 𝙴ᵛⁱˡ 𝙳ʳᵃᵍᵒⁿ * ⇎ *${new Date() - startTime}* ᴍs `
         }
       }
     }, {});
@@ -2260,8 +2260,8 @@ break
                             showAdAttribution: true,
                             title: `𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽`,
                             body: `𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽`,
-                            thumbnailUrl: 'https://telegra.ph/file/b127513eb930ee73178dd.jpg',
-                            sourceUrl: 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e',
+                            thumbnailUrl: 'https://telegra.ph/file/08f9ac09d340afe3b250c.jpg',
+                            sourceUrl: 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
