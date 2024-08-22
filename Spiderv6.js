@@ -31,9 +31,9 @@ const tanggal = moment.tz('Asia/Jakarta').format('DD/MM/YY')
 const { Client } = require('ssh2');
 const jsobfus = require('javascript-obfuscator');
 const fakejpg = fs.readFileSync(`./src/bruhhh.jpg`)
-const nulll = fs.readFileSync(`./image/images (10).jpeg`)
-const nulll2 = fs.readFileSync(`./image/images (10).jpeg`)
-const mengkece = fs.readFileSync(`./image/images (12).jpeg`)
+const nulll = fs.readFileSync(`./image/images (13).jpeg`)
+const nulll2 = fs.readFileSync(`./image/images (13).jpeg`)
+const mengkece = fs.readFileSync(`./image/images (14).jpeg`)
 const latx = fs.readFileSync(`./image/latx.png`)
 const fakedoc = fs.readFileSync(`./src/samcrash.apk`)
 const { ios } = require("./virtex/ios.js")
@@ -1016,8 +1016,8 @@ const menu = `𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6`
 case 'menu': {
 let itsmenu = `
 
-   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
-         
+   \`SPIDER-V7\`
+   ✍︎𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍✍︎
 ┏━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
 ┃  ❖ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴  : ${runtime(process.uptime())}
@@ -1033,7 +1033,7 @@ let itsmenu = `
 ┃❖ 𝐬𝐚𝐦𝐬𝐮𝐧𝐠𝐛𝐮𝐠𝐬
 ┃❖ 𝐩𝐜𝐛𝐮𝐠𝐬
 ┗━━━━━━━━━━
-© 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+© 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
   ` 
   deltaxcrash.sendMessage(m.chat, {
                         video: { url: `https://telegra.ph/file/9c8746c53a590f8ac2666.mp4`},
@@ -1046,8 +1046,8 @@ let itsmenu = `
                  break
  case 'spiderbugs':{
 let menya =
- `   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
-         
+ `   \`SPIDER-V7\`
+       ✍︎𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍✍︎
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
 ┃  ❖ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴  : ${runtime(process.uptime())}
@@ -1075,7 +1075,7 @@ let menya =
 ┃⬮ spiderx2 <254xxx>,amount
 ┃⬮ sam-bug <254xxx>
 ┗━━━━━━━━━━━━━━━━━
-© 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+© 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: menya,
@@ -1097,8 +1097,8 @@ deltaxcrash.sendMessage(m.chat, {
                  break
  case 'groupbugs':{
  let menyu =
-`   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
-         
+`   \`SPIDER-V7\`
+       ✍︎𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍✍︎  
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
 ┃  ❖ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴  : ${runtime(process.uptime())}
@@ -1112,7 +1112,7 @@ deltaxcrash.sendMessage(m.chat, {
 ┗━━━━━━━━━━━━━━━━━
  ● 𝑫𝒐𝒏𝒕 𝒃𝒍𝒂𝒎𝒆 𝒎𝒆 𝒊𝒏𝒄𝒂𝒔𝒆 𝒚𝒐𝒖𝒓 𝒘𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝒊𝒔 𝒂𝒍𝒔𝒐 𝒂𝒇𝒇𝒆𝒄𝒕𝒆𝒅
  
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: menyu,
@@ -1134,8 +1134,8 @@ deltaxcrash.sendMessage(m.chat, {
 	 break
 case 'spider-whatsapp-ban':{
  let viks =
-`   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
-         
+`   \`SPIDER-V7\`
+      ✍︎𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍✍︎   
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
 ┃  ❖ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴  : ${runtime(process.uptime())}
@@ -1148,7 +1148,7 @@ case 'spider-whatsapp-ban':{
 ┗━━━━━━━━━━━━━━━━━
  ● 𝖀𝖘𝖊 𝖙𝖍𝖊 𝖇𝖆𝖓 𝖗𝖊𝖕𝖔𝖗𝖙 𝖙𝖔 𝖇𝖆𝖓 𝖞𝖔𝖚𝖗 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕 𝖙𝖆𝖗𝖌𝖊𝖙 
  
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: viks,
@@ -1170,7 +1170,7 @@ deltaxcrash.sendMessage(m.chat, {
 	 break
 case 'iosbugs':{	
 let sami =
-`   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
+`   \`SPIDER-V7\`
          
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
@@ -1183,7 +1183,7 @@ let sami =
 ┃⬮ fake-ios <254xxx>
 ┗━━━━━━━━━━━━━━━━━
   
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: sami,
@@ -1205,7 +1205,7 @@ deltaxcrash.sendMessage(m.chat, {
                  break
  case 'ownermenu':{
  let muna =
- `   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
+ `   \`SPIDER-V7\`
          
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
@@ -1219,7 +1219,7 @@ deltaxcrash.sendMessage(m.chat, {
 ┃⬮ self
 ┃⬮ public
 ┗━━━━━━━━━━━━━━━━━
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  ` 
 deltaxcrash.sendMessage(m.chat, { 
 	           text: muna,
@@ -1241,7 +1241,7 @@ deltaxcrash.sendMessage(m.chat, {
                  break
  case 'othermenu':{
 let fuvk =
- `   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
+ `   \`SPIDER-V7\`
          
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
@@ -1253,7 +1253,7 @@ let fuvk =
 ┃⬮ alive
 ┃⬮ animeku
 ┗━━━━━━━━━━━━━━━━━
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: fuvk,
@@ -1275,7 +1275,7 @@ deltaxcrash.sendMessage(m.chat, {
                  break
 case 'pcbugs':{
 let fuvk =
- `   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
+ `   \`SPIDER-V7\`
          
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
@@ -1287,7 +1287,7 @@ let fuvk =
 ┃⬮ spider-chace,amount
 ┃⬮ pc-kill
 ┗━━━━━━━━━━━━━━━━━
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: fuvk,
@@ -1309,7 +1309,7 @@ deltaxcrash.sendMessage(m.chat, {
                  break
 case 'samsungbugs':{
 let samie =
- `   \`𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽\`
+ `   \`SPIDER-V7\`
          
 ┏━━━━━━━━━━━━━━━━━━
 ┃  ❖ 𝙷𝙴𝙻𝙻𝙾 @${sender.split("@")[0]}
@@ -1321,7 +1321,7 @@ let samie =
 ┃⬮ samsung-guru <254xxx>
 ┃⬮ samsung-kill <254xxx>
 ┗━━━━━━━━━━━━━━━━━
- © 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽
+ © 𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍
  `
 deltaxcrash.sendMessage(m.chat, { 
 	           text: samie,
@@ -2245,21 +2245,21 @@ break
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `* 𝙴ᵛⁱˡ 𝙳ʳᵃᵍᵒⁿ * ⇎ *${new Date() - startTime}* ᴍs `
+          conversation: `*𝐒ᵖⁱᵈᵉʳ 𝐕7ⁿ * ⇎ *${new Date() - startTime}* ᴍs `
         }
       }
     }, {});
   } 
 break
 	case "runtime":
-                let pinga = ` 𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽 ɦαร ɓεεɳ αcƭเѵε ƒσɾ ${runtime(process.uptime())}`
+                let pinga = ` 𝐒ᵖⁱᵈᵉʳ 𝐕7  ɦαร ɓεεɳ αcƭเѵε ƒσɾ ${runtime(process.uptime())}`
                deltaxcrash.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽`,
-                            body: `𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽`,
+                            title: `𝐂𝐨𝐥𝐥𝐢𝐧𝐬 𝐬𝐦𝐢𝐭𝐡`,
+                            body: `𝐂𝐨𝐥𝐥𝐢𝐧𝐬 𝐬𝐦𝐢𝐭𝐡`,
                             thumbnailUrl: 'https://telegra.ph/file/08f9ac09d340afe3b250c.jpg',
                             sourceUrl: 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q',
                             mediaType: 1,
