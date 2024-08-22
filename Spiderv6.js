@@ -152,7 +152,7 @@ message: {
 
 listResponseMessage: {
 
-title: 'SPIDER-V6'
+title: '𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽'
 
 }
 
@@ -298,7 +298,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6`
+title: `𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽`
 }
 }
 }
