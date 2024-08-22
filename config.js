@@ -1,21 +1,21 @@
-//Bot by 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒//
+//Bot by 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽//
 
 
 require("./all/module")
-global.owner = "2348024322741" 
-global.namaCreator = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
-global.autoJoin = false 
-global.antilink = false 
+global.owner = "254702713600" 
+global.namaCreator = "𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽" 
+global.autoJoin = true 
+global.antilink = true 
 global.versisc = '6.0' 
-global.codeInvite = "https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e"
-global.isLink = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.codeInvite = "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH"
+global.isLink = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
 global.sessionName = 'session'
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
-global.packname = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
-global.author = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
+global.packname = "ARLODRAGON" 
+global.author = "𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽" 
 global.jumlah = "5" 
-global.namabot = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
+global.namabot = "𝙴𝚅𝙸𝙻𝙳𝚁𝙰𝙶𝙾𝙽" 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
